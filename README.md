@@ -3,7 +3,7 @@ extracts pitch from sound waveform
 algorithm is based on: 
 "[1] IFA Proceedings 17, 1993
 ACCURATE SHORT-TERM ANALYSIS OF THE FUNDAMENTAL FREQUENCY AND THE HARMONICS-TO-NOISE RATIO OF A SAMPLED SOUND by 
-Paul Boersma"
+Paul Boersma" http://www.cs.northwestern.edu/~pardo/courses/eecs352/papers/pitch%20tracking%20-%20boersma.pdf
 
 # installation:
 -add AGRSoundPitch.h, AGRSoundPitch.m to your project
